@@ -22,7 +22,7 @@ const dataabout = {
 
 const worktimeline = [{
         jobtitle: "Internship as a developer",
-        where: "Brdztech infosystem,Ranchi",
+        where: "Briztech Infosystem,Ranchi",
         date: "Oct/2023 - nov/2023",
     },
     {
