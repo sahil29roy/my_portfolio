@@ -100,10 +100,11 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/sahil29roy",
+    // facebook: "https://facebook.com",
+    linkedin: "www.linkedin.com/in/sahil29roy",
+    twitter: "https://x.com/sahil29roy",
+    leetcode: "https://leetcode.com/u/sahil08roy/",
 };
 export {
     meta,
