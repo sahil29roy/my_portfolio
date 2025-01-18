@@ -72,60 +72,19 @@ const services = [
 
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "../public/src/image.png",
         description: "Clone of Youtube,built using react.",
         link: "https://github.com/sahil29roy/YourTube",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: "https://github.com/sahil29roy/Video-Player/blob/main/public/video_player_model.png",
         description: "Video-player app (Backend project),Which has also functinality to upload video,comment,like,tweet and other functionality",
         link: "https://github.com/sahil29roy/Video-Player",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://github.com/sahil29roy/currency-converter/blob/main/public/src/image.png",
         description: "Currency-convertor Built using react app which is used to convert any international currency.",
         link: "https://github.com/sahil29roy/currency-converter",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
     },
 ];
 
